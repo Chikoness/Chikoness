@@ -10,7 +10,7 @@ In my free time, I love to swim, indoor gym climbing, as well as hiking and muay
 
 Visit my [website](https://charleneandrew.com/)! 
 
-[![Charlene A.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Chikoness)](https://github.com/Chikoness/github-readme-stats)
+<!-- [![Charlene A.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Chikoness)](https://github.com/Chikoness/github-readme-stats) -->
 
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chikoness" />
 
