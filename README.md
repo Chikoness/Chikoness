@@ -12,8 +12,6 @@ Visit my [website](https://charleneandrew.com/)!
 
 [![Charlene A.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Chikoness)](https://github.com/Chikoness/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chikoness&theme=tokyonight)](https://git.io/streak-stats)
-
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chikoness" />
 
 <!--
