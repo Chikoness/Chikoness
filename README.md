@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a part-time 🖥️ computer science degree student who has work experiences as a programmer/artist in a 🎮 game studio in Malaysia. 
+I am a Masters student studying Computer Science at the University of Warwick under the ASEAN-UK SAGE Women in STEM scholarship! While I consider myself pretty well-versed with software development, I am currently venturing into the realms of data science and analytics during my studies.
 
-I also possess a Bachelor of Multimedia (Hons) in Film and Animation with 6 years of work experience as a 3D animator. 
+I also possess a Bachelor of Multimedia (Hons) in Film and Animation with ~6 years of work experience as a 3D animator. 
 
 I have worked with a range of programming languages and frameworks, ranging from front-end such as Vue and React, to back-end (Node.js, Express) as well as Firebase and MongoDB to hosting all of them on GCP Compute Engine and Huawei Cloud.
 
